@@ -1,2 +1,1 @@
-# literate-octo-fortnight
-This is a sample github page.
+#Tang ina mo po
