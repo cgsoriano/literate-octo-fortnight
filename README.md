@@ -1,7 +1,7 @@
 Hi Pearly <br>
 Alam mo ang cute cute ko. periodt
 
-    <body>
+    
         <script type="text/javascript">
             var care = 5;
             var love = 3;
@@ -17,4 +17,4 @@ Alam mo ang cute cute ko. periodt
                 }
                     document.write(care + " and " + love + " and " + sweet + " are " + match);
         </script>
-    </body>
+   
